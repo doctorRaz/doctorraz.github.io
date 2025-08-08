@@ -14,10 +14,8 @@ tabs:
   categories: Категории
   tags: Теги
   archives: Архив
-  about: О сайте0
-  blog: Блог
-  projects: Проекты
-  publications: Публикации
+  about: О сайте
+
 # the text displayed in the search bar & search results
 search:
   hint: поиск
