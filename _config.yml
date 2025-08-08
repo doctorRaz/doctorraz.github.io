@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: https://doctorraz.github.io
 
 github:
   username: leesh90 # change to your GitHub username
@@ -141,7 +141,7 @@ pwa:
   cache:
     enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
-    # Usually its value is the `baseurl` of another website that
+    # Usually its value is the `` of another website that
     # shares the same domain name as the current website.
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
@@ -149,7 +149,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: /leesh
 
 # ------------ The following options are not recommended to be modified ------------------
 
