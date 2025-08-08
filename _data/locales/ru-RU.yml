@@ -18,7 +18,6 @@ tabs:
   blog: Блог
   projects: Проекты
   publications: Публикации
-
 # the text displayed in the search bar & search results
 search:
   hint: поиск
