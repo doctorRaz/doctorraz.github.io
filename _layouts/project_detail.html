@@ -1,0 +1,109 @@
+---
+layout: page
+---
+
+<style>
+.project-detail-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.project-detail-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.project-detail-title {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.project-detail-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: contain; /* contain으로 변경 */
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.project-detail-content {
+  line-height: 1.8;
+  font-size: 1.1rem;
+}
+
+.project-detail-tags,
+.project-detail-links {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border-color);
+}
+
+.project-tag {
+    display: inline-block;
+    background: var(--tag-bg);
+    padding: 5px 15px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    border-radius: 15px;
+    font-size: 0.9rem;
+    color: var(--tag-color);
+    font-weight: 500;
+}
+
+.project-link {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid var(--link-color);
+    border-radius: 5px;
+    color: var(--link-color);
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-size: 1rem;
+    margin-right: 10px;
+}
+
+.project-link:hover {
+    background-color: var(--link-color);
+    color: var(--button-text-color);
+}
+
+.project-link i {
+    margin-right: 8px;
+}
+</style>
+
+<div class="project-detail-container">
+  <header class="project-detail-header">
+    <h1 class="project-detail-title">{{ page.title }}</h1>
+    <div class="project-meta">
+      {% if page.start_date %}
+        <p class="text-muted"><span>Duration: {{ page.start_date | date: "%Y-%m-%d" }} ~ {{ page.end_date | date: "%Y-%m-%d" }}</span></p>
+      {% else %}
+        <p class="text-muted"><span>Date: {{ page.date | date: "%B %d, %Y" }}</span></p>
+      {% endif %}
+      {% if page.sponsor %}
+        <p class="text-muted"><span>Sponsor: {{ page.sponsor }}</span></p>
+      {% endif %}
+    </div>
+  </header>
+
+  
+
+  <div class="project-detail-content">
+    {{ content }}
+  </div>
+
+  
+
+  {% if page.links %}
+  <div class="project-detail-links">
+    <h4>Links</h4>
+    {% for link in page.links %}
+      <a href="{{ link.url }}" class="project-link" target="_blank">
+        <i class="{{ link.icon }}"></i> {{ link.name }}
+      </a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+</div>

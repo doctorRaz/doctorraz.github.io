@@ -1,0 +1,26 @@
+.project-meta {
+  margin-top: 20px;
+  padding: 15px 20px;
+  background-color: var(--card-bg); // 카드 배경색 변수 사용
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+
+  p {
+    margin-bottom: 8px;
+    font-size: 1rem;
+    color: var(--text-color); // 기본 텍스트 색상 변수 사용
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    i {
+      margin-right: 10px;
+      color: var(--link-color); // 링크 색상 변수 사용
+    }
+
+    span {
+      font-weight: 500;
+    }
+  }
+}
