@@ -10,4 +10,5 @@ hidden: false
 media_subpath: '/assets/img/posts/2025-08-29-AutoFiller'
 ---
 
-[Test download](AutoFiller.zip)
+![00.png](00.png)
+<!--[Test download](AutoFiller.zip)-->
