@@ -15,6 +15,6 @@ ppp : '/assets/img/posts/2025-08-29-AutoFiller'
 
 [Test download](/assets/img/posts/2025-08-29-AutoFiller/AutoFiller.zip)
 
-[Test download5]( %ppp% /AutoFiller.zip)
+[Test download5]( { ppp } /AutoFiller.zip)
 
 <!--[Test download50](path/AutoFiller.zip)-->
