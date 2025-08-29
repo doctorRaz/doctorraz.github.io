@@ -11,3 +11,4 @@ PlotSPDSn=site
 PlotSPDSn22=
 PlotSPDSn20= 
 PlotSPDSw= site
+PlotSPDSw.NET= site
