@@ -8,13 +8,13 @@ tags: [nanocad, autocad]
 pin: false
 hidden: false
 media_subpath: '/assets/img/posts/2025-08-29-AutoFiller'
-%ppp% : '/assets/img/posts/2025-08-29-AutoFiller'
+ppp : '/assets/img/posts/2025-08-29-AutoFiller'
 ---
 
 ![00.png](00.png)
 
 [Test download](/assets/img/posts/2025-08-29-AutoFiller/AutoFiller.zip)
 
-<!--[Test download5](/AutoFiller.zip)-->
+[Test download5]( %ppp% /AutoFiller.zip)
 
 <!--[Test download50](path/AutoFiller.zip)-->
