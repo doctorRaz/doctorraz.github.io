@@ -14,4 +14,6 @@ path: '/assets/zip'
 ![00.png](00.png)
 [Test download](https://doctorraz.github.io/assets/zip/2025-08-29-AutoFiller/AutoFiller.zip)
 
-[Test download5](https://doctorraz.github.io/assets/zip/2025-08-29-AutoFiller/AutoFiller.zip)
+[Test download5](/assets/zip/2025-08-29-AutoFiller/AutoFiller.zip)
+
+[Test download50]({path}/AutoFiller.zip)
