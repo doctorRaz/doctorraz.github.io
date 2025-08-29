@@ -16,3 +16,10 @@ media_subpath: '/assets/img/posts/2025-08-29-AutoFiller'
 [AutoFiller](/assets/img/posts/2025-08-29-AutoFiller/AutoFiller.zip)
 
 
+[plot](/Updater/PlotSPDS/PlotSPDS.zip)
+
+[MenuFilesGen](/Updater/PlotSPDS/MenuFilesGen.zip)
+
+[MenuFilesGen.exe](/Updater/PlotSPDS/MenuFilesGen.exe)
+[MenuFilesGen.dll](/Updater/PlotSPDS/MenuFilesGen.dll)
+
