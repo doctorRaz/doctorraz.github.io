@@ -474,6 +474,14 @@ https://drive.google.com/open?id=1F3RmI3DSbx0gKp2etcGqAfNo_p66RsFz
 > После регистрации библиотеки подключение программы к СПДС должно восстановиться.
 {: .prompt-tip }
 
+> Библиотека `McCOM2.dll` 32х битная, поэтому для ее регистрации в 64х разрядных системах следует использовать 32х разрядную утилиту \
+> `c:\Windows\SysWOW64\regsvr32.exe` \
+> ```bat
+> c:\Windows\SysWOW64\regsvr32.exe "c:\Program Files\CSoft\СПДС GraphiCS 2024 x64\mg143x64\McCOM2.dll"
+> ```
+{: .prompt-warning }
+
+
 ### Твики. Как отключить Enabler
 
 > Необходимы права администратора
