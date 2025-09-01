@@ -3,7 +3,7 @@ title: Как загрузить свое меню и ленту в nanoCAD
 description: Несколько способов загрузки
 author: doctorraz
 date: 2025-08-08 11:10:00 +0300
-categories: [nanoCAD, settings]
+categories: [CAD, nanoCAD]
 tags: [nanocad, settings, levelup]
 pin: false
 hidden: false

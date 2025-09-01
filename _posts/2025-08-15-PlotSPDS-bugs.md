@@ -3,7 +3,7 @@ title: nanoCAD 25.1 баги
 description: Описание нанобагов, что бы ничего не забыть
 author: doctorraz
 date: 2025-08-24 11:00:00 +0300
-categories: [nanoCAD, others]
+categories: [CAD, nanoCAD]
 tags: [nanocad, bugs, others]
 pin: true
 hidden: false

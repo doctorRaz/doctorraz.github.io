@@ -3,8 +3,8 @@ title: PlotSPDS CS (FAQ)
 description: Ответы на частые вопросы по работе с программой. 
 author: doctorraz
 date: 2025-08-12 11:00:00 +0300
-categories: [AutoCAD, PlotSPDS]
-tags: [autocad, plotspds, faq]
+categories: [CAD, PlotSPDS]
+tags: [autocad, plotspds, faq, automatic]
 pin: false
 hidden: false
 media_subpath: '/assets/img/posts/2025-08-13-PlotSPDS-Faq'

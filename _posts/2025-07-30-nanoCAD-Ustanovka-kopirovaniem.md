@@ -3,7 +3,7 @@ title: nanoCAD. Установка копированием
 description: Если нет прав на установку nanoCAD, но очень надо...  решение есть.
 author: drz
 date: 2025-08-10 12:34:00 +0300
-categories: [nanoCAD, settings ]
+categories: [CAD, nanoCAD]
 pin: false
 hidden: false
 tags: [nanocad, settings, levelup]
