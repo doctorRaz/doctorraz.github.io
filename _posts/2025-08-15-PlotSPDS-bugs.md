@@ -15,6 +15,9 @@ media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 
 ![bug-rep](bug-rep.jpg)
 
+
+![bug-rep](bug.jfif)
+
 ## nanoCAD 25.1 (beta)
 
 1. ### Масштаб измерений
