@@ -8,17 +8,15 @@ tags: [nanocad, bugs, others]
 pin: true
 hidden: false
 media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
+image:
+  path: bug.jfif
 ---
 
-> ![bug-rep](bug.jfif){: .w-25 .right}
+> ![bug-rep](bug.jfif){: .w-50 }
+
 > В процессе написания
 {: .prompt-danger }
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## nanoCAD 25.1 (beta)
 
