@@ -13,10 +13,8 @@ media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 > В процессе написания
 {: .prompt-danger }
 
-![bug-rep](bug-rep.jpg)
 
-
-![bug-rep](bug.jfif)
+![bug-rep](bug.jfif){: .w-50 .normal}
 
 ## nanoCAD 25.1 (beta)
 
