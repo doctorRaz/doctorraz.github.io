@@ -16,7 +16,7 @@ media_subpath: '/assets/img/posts/2025-08-13-PlotSPDS-Faq'
 > При печати чертежей из сетевого каталога PlotSPDS не может печатать
 > В ком строке ошибка
 > `Некорректный путь к папке`
-> 
+
 > <details><summary>Ответ: </summary>
 > <p>
 > 
