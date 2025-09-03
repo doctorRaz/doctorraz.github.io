@@ -10,7 +10,7 @@ hidden: false
 media_subpath: '/assets/img/posts/2025-08-13-PlotSPDS-Faq'
 ---
 
-### Не печатает с сетевого ресурса
+### Печать. Не печатает с сетевого ресурса
 
 Вопрос:
 > При печати чертежей из сетевой папки **PlotSPDS** не печатает \
@@ -258,15 +258,9 @@ media_subpath: '/assets/img/posts/2025-08-13-PlotSPDS-Faq'
 > <li>кнопка или пункт меню: <br/>
 > <i> ^C^C(startapp "PlotSPDS") </i> </li>
 > <li> лисп на алиас кнопок: <br/>
-> <pre>
-(defun C:пч()
-  (startapp "PlotSPDS.exe")
-  (princ)
-)
-> <pre/>
+> <b><i> (defun C:пч()   (startapp "PlotSPDS.exe")   (princ) )</i></b>
 > PlotSPDS.exe скопировать в каталог путей поиска файлов AutoCAD, (рабочих, вспомогательных, доверенных)<br/>
-> или добавить путь в пути поиска
-> </li>
+> или добавить путь в пути поиска </li>
 > </ol>
 > 
 > </p>
