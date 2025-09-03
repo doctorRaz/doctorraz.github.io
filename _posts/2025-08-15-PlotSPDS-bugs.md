@@ -22,9 +22,12 @@ media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 > ![contecst-menu.png](https://doctorraz.github.io/assets/img/posts/2025-09-03-hints/contecst-menu.png){: .w-50 }
 > - не работают  ctrl+x...c...v...z (действуют не на редактируемый текст, а на весь чертеж и черт пойми что еще)
 > - работают ctrl+ Up, down..B..T\
-> по ПКМ выход из редактирования на чертеже, контекстное меню вызвать не получится,  \
+> на ПКМ назначен выход из редактирования на чертеже, контекстное меню вызвать не получится,  \
 > выход: вызывать контекстное меню с клавиатуры \
-> ![Shortcut](https://doctorraz.github.io/assets/img/posts/2025-09-03-hints/Use-a-Right-Click-Shortcut-Key-1.jpg){: .w-50 }
+> ![Shortcut](https://doctorraz.github.io/assets/img/posts/2025-09-03-hints/Use-a-Right-Click-Shortcut-Key-1.png){: .w-25 }
+> 
+> что интересно в AutoCAD горячие клавиши копирования, вставки, вырезания работают, что удивительно мультикад для него чужеродные сущности((
+
 
 1. ### Масштаб измерений
 > линейный размер не берет установленный масштаб измерений
