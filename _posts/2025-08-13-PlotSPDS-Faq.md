@@ -23,9 +23,9 @@ media_subpath: '/assets/img/posts/2025-08-13-PlotSPDS-Faq'
 > Надо подключить сетевой ресурс виртуальным диском <br>
 > из ком строки системы командой <b> SUBST</b> <br>
 > например так, подключаем каталог как диск <i> Y</i>: <br>
->  
-> <i> subst y: "\\C-SERVER\pko\Чертежи смежников"</i> <br>
-> 
+>  <br>
+> <b> <i> subst y: "\\C-SERVER\pko\Чертежи смежников"</i></b> <br>
+> <br>
 > и открывать файлы dwg с этого виртуального диска <br>
 > тогда PlotSPDS все корректно распечатает
 > 
@@ -259,10 +259,10 @@ media_subpath: '/assets/img/posts/2025-08-13-PlotSPDS-Faq'
 > <i> ^C^C(startapp "PlotSPDS") </i> </li>
 > <li> лисп на алиас кнопок: <br/>
 > <pre>
-> (defun C:пч()
-> (startapp "PlotSPDS.exe")
-> (princ)
-> )
+(defun C:пч()
+  (startapp "PlotSPDS.exe")
+  (princ)
+)
 > <pre/>
 > PlotSPDS.exe скопировать в каталог путей поиска файлов AutoCAD, (рабочих, вспомогательных, доверенных)<br/>
 > или добавить путь в пути поиска
