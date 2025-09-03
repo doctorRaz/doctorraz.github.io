@@ -256,9 +256,9 @@ media_subpath: '/assets/img/posts/2025-08-13-PlotSPDS-Faq'
 >
 > <ol>
 > <li>кнопка или пункт меню: <br/>
-> <i> ^C^C(startapp "PlotSPDS") </i> </li>
+> <b> <i> ^C^C(startapp "PlotSPDS") </i></b> </li>
 > <li> лисп на алиас кнопок: <br/>
-> <b><i> (defun C:пч()   (startapp "PlotSPDS.exe")   (princ) )</i></b>
+> <b><i> (defun C:пч()   (startapp "PlotSPDS.exe")   (princ) )</i></b><br>
 > PlotSPDS.exe скопировать в каталог путей поиска файлов AutoCAD, (рабочих, вспомогательных, доверенных)<br/>
 > или добавить путь в пути поиска </li>
 > </ol>
