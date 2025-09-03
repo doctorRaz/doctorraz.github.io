@@ -14,7 +14,7 @@ media_subpath: '/assets/img/posts/2025-08-29-AutoFiller'
 > пишется
 {: .prompt-danger }
 
-
+ если вам часто приходится заполнять формате. менять их значения. то вы обратились по адресу вам сюда. перенос энтер.
 
 ![recvizits-form](recvizits-form.png)
 
