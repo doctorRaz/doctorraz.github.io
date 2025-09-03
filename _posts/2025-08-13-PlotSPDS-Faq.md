@@ -259,7 +259,7 @@ media_subpath: '/assets/img/posts/2025-08-13-PlotSPDS-Faq'
 > <b> <i> ^C^C(startapp "PlotSPDS") </i></b> </li>
 > <li> лисп на алиас кнопок: <br/>
 > <b><i> (defun C:пч()   (startapp "PlotSPDS.exe")   (princ) )</i></b><br>
-> PlotSPDS.exe скопировать в каталог путей поиска файлов AutoCAD, (рабочих, вспомогательных, доверенных)<br/>
+> PlotSPDS.exe скопировать в каталог путей поиска файлов AutoCAD, (рабочих, вспомогательных, доверенных), 
 > или добавить путь в пути поиска </li>
 > </ol>
 > 
@@ -382,8 +382,15 @@ https://drive.google.com/open?id=1F3RmI3DSbx0gKp2etcGqAfNo_p66RsFz
 > <details><summary>Ответ: </summary>
 > <p>
 > 
-> Надо подключить сетевой ресурс, как виртуальный диск <b>subst</b> <br>
-> И открывать *.dwg с этого виртуального диска, должно получиться
+> 
+> Надо подключить сетевой ресурс виртуальным диском <br>
+> из ком строки системы командой <b> SUBST</b> <br>
+> например так, подключаем каталог как диск <i> Y</i>: <br>
+>  <br>
+> <b> <i> subst y: "\\C-SERVER\pko\Чертежи смежников"</i></b> <br>
+> <br>
+> и открывать файлы dwg с этого виртуального диска <br>
+> тогда PlotSPDS все корректно распечатает
 >
 > </p>
 > </details> 
@@ -437,7 +444,7 @@ https://drive.google.com/open?id=1F3RmI3DSbx0gKp2etcGqAfNo_p66RsFz
 > <ul>
 > <li> <img   alt="image" src="Disable-Regen-dwg.png" /> <br>
 > <p align="center" ><i> Снять чекбокс.</i></p> </li>
-> <br> или
+> или
 > <li> Отключить в AuoCAD фоновую публикацию
 > </li>
 > </ul>
