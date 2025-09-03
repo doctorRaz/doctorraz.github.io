@@ -437,8 +437,6 @@ https://drive.google.com/open?id=1F3RmI3DSbx0gKp2etcGqAfNo_p66RsFz
 Вопрос:
 > Можно ли адаптировать ПЛОТСПДС для ZWCAD 2021 с СПДС GraphiCS 2022 или nanoCAD?
 
-Можно, но сейчас занимаюсь PlotSPDS 
-
 > <details><summary>Ответ: </summary>
 > <p>
 > 
