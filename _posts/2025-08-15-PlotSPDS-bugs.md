@@ -24,10 +24,8 @@ media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 > 
 > на ПКМ программно назначен выход из редактирования на чертеже, соответственно вызвать правой кнопкой контекстное меню не получится, \
 > > Решение: вызывать контекстное меню с клавиатуры 
-> > 
-> > ![Shortcut](https://doctorraz.github.io/assets/img/posts/2025-09-03-hints/Use-a-Right-Click-Shortcut-Key-1.png){: .w-25 }
-> > 
-> > ![contecst-menu.png](https://doctorraz.github.io/assets/img/posts/2025-09-03-hints/contecst-menu.png){: .w-25 }
+> > |---|---|
+> > |![Shortcut](https://doctorraz.github.io/assets/img/posts/2025-09-03-hints/Use-a-Right-Click-Shortcut-Key-1.png){: .w-25 }|![contecst-menu.png](https://doctorraz.github.io/assets/img/posts/2025-09-03-hints/contecst-menu.png){: .w-25 }|
 > > 
 > > > <i>что интересно в AutoCAD горячие клавиши копирования, вставки, вырезания работают, что удивительно, ведь мультикад для него чужеродные сущности((</i>
 
