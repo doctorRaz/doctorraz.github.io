@@ -10,12 +10,11 @@ hidden: false
 media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 ---
 
----
 ![bug-rep](bug.jfif){: .w-25 }
  
-> Потихоньку пополняется 
+> Потихоньку дописываю
+> баги плодятся быстрее чем чинятся ((
 {: .prompt-danger }
----
 
 ## nanoCAD 25.1 (beta)
 
