@@ -12,7 +12,7 @@ media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 
 ![bug-rep](bug.jfif){: .w-25 }
  
-> Потихоньку дописываю
+> Потихоньку дописываю \
 > баги плодятся быстрее чем чинятся ((
 {: .prompt-danger }
 
