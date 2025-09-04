@@ -29,7 +29,7 @@ media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 > > 
 > > ![contecst-menu.png](https://doctorraz.github.io/assets/img/posts/2025-09-03-hints/contecst-menu.png){: .w-25 }
 > > 
-> > > <i> в AutoCAD горячие клавиши копирования, вставки, вырезания в  этом сценарии работают, \
+> > > <i> в AutoCAD горячие клавиши копирования, вставки, вырезания в  этом сценарии работают, 
 > > > удивительно, ведь мультикад для него чужеродные сущности((</i>
 
 
