@@ -10,7 +10,7 @@ hidden: false
 media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 ---
 
-![bug-rep](bug.jfif){: .w-25 }
+![bug-rep](bug.jfif){: .w-25 .right}
  
 > Потихоньку пополняется 
 {: .prompt-danger }
