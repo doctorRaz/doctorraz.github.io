@@ -1,10 +1,10 @@
 ---
 title: AutoFiller. Автозаполнялка 
-description: Автоматическое заполнение основных надписей СПДС и статистика по проекту.
+description: Автоматическое заполнение основных надписей форматов и статистика по проекту.
 author: doctorraz
 date: 2026-08-29 10:10:00 +0300
 categories: [CAD, Automatic, Othets]
-tags: [nanocad, autocad, automatic, levelup]
+tags: [nanocad, autocad, automatic, levelup, spds]
 pin: false
 hidden: false
 media_subpath: '/assets/img/posts/2025-08-29-AutoFiller'
