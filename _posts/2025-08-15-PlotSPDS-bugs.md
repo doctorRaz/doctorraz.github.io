@@ -18,6 +18,11 @@ media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 
 ## nanoCAD 25.0 
 
+1. ### Привязать формат. Промежутки между форматами
+> В нк25 команда "привязать формат" расставляет форматы не рядом друг с другом, а с промежутками
+> [тут с картинками](https://forum.nanocad.ru/discussion/1120/nanocad25-privyazat-format-promezhutki-mezhdu-formatami)
+> 
+
 1. ### В таблицах разучился понимать неразрывный пробел
 > вводится по `ctrl+shift+space` \
 > 
