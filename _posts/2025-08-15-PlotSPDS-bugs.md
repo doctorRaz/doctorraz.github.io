@@ -27,7 +27,7 @@ media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 
 1. ### Привязать формат. Промежутки между форматами
 > В нк25 СПДС команда `привязать формат` расставляет форматы не рядом друг с другом, а с промежутками \
-> [тут с картинками](https://forum.nanocad.ru/discussion/1120/nanocad25-privyazat-format-promezhutki-mezhdu-formatami)
+>
 
 
 
