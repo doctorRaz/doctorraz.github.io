@@ -22,12 +22,13 @@ media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 >для `PromptOpenFileOptions` и `PromptSaveFileOptions` игнорирование установленного в коде свойства `PreferCommandLine` это баг или фича? \
 > например я хочу в командном режиме открыть окно выбора файла, а наник тупо предлагает ввести путь в ком строке.. несмотря на то что явно указано
 > ```PreferCommandLine=false;```\
-> или наоборот
->
+> или наоборот \
+> <a href="https://forum.nanocad.ru/t/nc-8055-ignoriruet-flagi-prefercommandline/1137" target="_blank">подробнее тут</a>
+> [подробнее тут](https://forum.nanocad.ru/t/nc-8055-ignoriruet-flagi-prefercommandline/1137)
 
 1. ### Привязать формат. Промежутки между форматами
 > В нк25 СПДС команда `привязать формат` расставляет форматы не рядом друг с другом, а с промежутками \
-[подробнее тут](https://forum.nanocad.ru/t/nanocad25-privyazat-format-promezhutki-mezhdu-formatami/989)
+> [подробнее тут](https://forum.nanocad.ru/t/nanocad25-privyazat-format-promezhutki-mezhdu-formatami/989)
 >
 
 
