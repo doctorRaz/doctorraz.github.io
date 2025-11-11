@@ -16,6 +16,8 @@ media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 > баги плодятся быстрее чем чинятся ((
 {: .prompt-danger }
 
+# Поломано
+
 ## nanoCAD 25.0 
 
 1. ### API. Игнорирует флаги установленные в PreferCommandLine 
@@ -171,7 +173,9 @@ media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
 > `Лист` должен быть скрыт, но нет<br>
 > `лИмиты` `Enabled=false` не должны реагировать??? но реагируют и на мышку и на прямой ввод
 
-## Починено в nanoCAD 25
+# Починено 
+
+## nanoCAD 25
 
 1. ### В таблицах разучился понимать неразрывный пробел
 > вводится по `ctrl+shift+space` \
