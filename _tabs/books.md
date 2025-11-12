@@ -28,7 +28,7 @@ books:
   - title: "Collection-of-nanoCAD-API-bugs"
     author: doctorraz
     link: "https://github.com/doctorRaz/Collection-of-nanoCAD-API-bugs"
-    thumbnail: "assets/img/books/bugs.jpg"
+    thumbnail: "assets/img/books/bug.jfif"
     reviewed_at: 12.08.2025 
     rating: 1
     description:
