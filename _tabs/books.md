@@ -5,6 +5,15 @@ order: 8
 
 layout: books
 books:
+  - title: "drzTools"
+    author: doctorraz
+    link: "https://github.com/doctorRaz/drzTools"
+    thumbnail: "https://github.com/doctorRaz/drzTools/wiki/img/drzTools.png"
+    reviewed_at: 11.11.2025 
+    rating: 5
+    description:
+      - drzTools — пакет расширений для nanoCAD, который предоставляет команды автоматизации и служебные команды для рабочих процессов в САПР. </br> Пакет предоставляет функциональные возможности с помощью различных способов доступа, включая меню, ленты, панели инструментов, интерфейс командной строки и сочетания клавиш
+      - комплексный пакет утилит для nanoCAD, состоящий из более чем 90 команд, объединённых в два модуля: BGTOOLS и drzTools.
   - title: "MenuFilesGen (Fork)"
     author: doctorraz
     link: "https://github.com/doctorRaz/MenuFilesGen"
