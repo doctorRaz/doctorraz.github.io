@@ -7,7 +7,7 @@ categories: [CAD, nanoCAD]
 tags: [nanocad, bugs, others]
 pin: true
 hidden: false
-media_subpath: '/assets/img/posts/2025-08-15-PlotSPDS-bugs'
+media_subpath: '/assets/img/posts/2025-08-15-nanoCAD-bugs'
 ---
 
 ![bug-rep](bug.jfif){: .w-25 }
