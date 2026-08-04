@@ -1,0 +1,14 @@
+[Update]
+DateRelis=19.09.2025
+Version=2.1.9470
+[Description]
+2=сортировка листов с точкой 1.1 1.2 и т.д
+6=“естирование до 13.06.2025
+
+[URL]
+PlotSPDSn.NET=site
+PlotSPDSn=site
+PlotSPDSn22=
+PlotSPDSn20= 
+PlotSPDSw= site
+PlotSPDSw.NET= PlotSPDSw.NET.exe
