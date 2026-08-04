@@ -1,16 +1,17 @@
 ---
-title: Visual Studio hints
+title: Visual Studio авто нумерация сборок. Часть 1.
 description: Себе для памяти, возможно дополню и поправлю
 author: doctorraz
 date: 2026-07-15 10:00:00 +0300
 categories:
   - C#
   - Net
+  - VS
 tags:
   - VisualStudio
-  - hints
-  - others
-pin: true
+  - NET
+  - csproj
+pin: false
 hidden: false
 ---
 
