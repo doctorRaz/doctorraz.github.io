@@ -28,7 +28,7 @@ tags:
   - API
 pin: false
 hidden: false
-media_subpath: /assets/img/posts/название-каталога-как имя поста
+media_subpath: /assets/img/posts/название-каталога-как-имя-поста
 ---
 
 

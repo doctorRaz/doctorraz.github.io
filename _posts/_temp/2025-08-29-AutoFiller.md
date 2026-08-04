@@ -4,7 +4,7 @@ description: Автоматическое заполнение основных 
 author: doctorraz
 date: 2026-08-29 10:10:00 +0300
 categories: [CAD, Automatic, Othets]
-tags: [nanocad, autocad, automatic, levelup, spds]
+tags: [CAD, nanocad, autocad, automatic, levelup, spds]
 pin: false
 hidden: false
 media_subpath: '/assets/img/posts/2025-08-29-AutoFiller'
@@ -40,7 +40,7 @@ media_subpath: '/assets/img/posts/2025-08-29-AutoFiller'
 - 
 
 
-▌ Программа для автоматизации процесса оформления комплектов конструкторской документации
+Программа для автоматизации процесса оформления комплектов конструкторской документации
 
 Программа предназначена для автоматизированного заполнения основной надписи чертежей (штампов) в формате, соответствующем требованиям стандарта ГОСТ 21.101 «Система проектной документации для строительства» (СПДС). Реализует следующие функции:
 
