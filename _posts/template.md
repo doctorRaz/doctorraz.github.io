@@ -32,8 +32,6 @@ media_subpath: /assets/img/posts/название-каталога-как-имя
 ---
 
 
-
-
 [Как запустить nanoCAD](#funky)
 
 [Релатив]({{ root_url | prepend: site.baseurl}}/posts/img/#funky)

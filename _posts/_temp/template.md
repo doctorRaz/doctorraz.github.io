@@ -2,7 +2,7 @@
 title: Text and Typography
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: doctorraz
-date: 2026-08-04T10:00:00
+date: 2026-08-04T10:00:00 +0300
 categories:
   - nanoCAD
   - hook
