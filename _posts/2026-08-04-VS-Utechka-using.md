@@ -1,5 +1,5 @@
 ---
-title: Утечка using
+title: Транзитивные ссылки ProjectReference
 description: Реализации "протекают" в библиотеки.
 author: doctorraz
 date: 2026-08-04T11:00:00
