@@ -25,5 +25,9 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
-@res
-desktop.ini
+
+# Hidden system files
+*~
+.DS_Store
+Thumbs.db
+**/@res/
