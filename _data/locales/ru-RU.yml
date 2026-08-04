@@ -13,11 +13,8 @@ tabs:
   home: Главная
   categories: Категории
   tags: Теги
-  archives: Блог
+  archives: Архив
   about: О сайте
-  projects: Проекты
-  books: Проекты
-  links: Ссылки
 
 # the text displayed in the search bar & search results
 search:
@@ -48,8 +45,13 @@ not_found:
   statement: Извините, мы перепутали URL-адрес или он указывает на что-то несуществующее.
 
 notification:
-  update_found: Доступна новая версия контента.
+  update_found: Найден новый контент
   update: Обновить
+
+theme:
+  light: Светлая
+  dark: Темная
+  system: Системная
 
 # ----- Posts related labels -----
 
@@ -62,6 +64,7 @@ post:
   read_time:
     unit: мин.
     prompt: чтения
+  edit: Редактировать этот пост
   relate_posts: Похожие посты
   share: Поделиться
   button:

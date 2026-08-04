@@ -6,16 +6,6 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-doctorraz:
-  name: Андрей Разыграев
-  twitter: doctorraz
-  url: https://github.com/doctorraz/
-  
-drz:
-  name: Андрей Разыграев
-  twitter: dRz
-  url: https://github.com/doctorraz/
-  
 cotes:
   name: Cotes Chung
   twitter: cotes2020
@@ -25,5 +15,3 @@ sille_bille:
   name: Dinesh Prasanth Moluguwan Krishnamoorthy
   twitter: dinesh_MKD
   url: https://github.com/SilleBille/
-  
-
