@@ -13,7 +13,7 @@ tags:
   - csproj
 pin: false
 hidden: false
-media_subpath: /assets/img/posts/2026-08-04-VS-Utechka-using
+media_subpath: /assets/img/posts/2026-08-04-VS-using-transit
 ---
 
 # Утечка using 
