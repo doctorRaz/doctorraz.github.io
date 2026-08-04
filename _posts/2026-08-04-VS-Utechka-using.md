@@ -11,7 +11,7 @@ tags:
   - NET
   - VisualStudio
   - csproj
-pin: true
+pin: false
 hidden: false
 media_subpath: /assets/img/posts/2026-08-04-VS-Utechka-using
 ---
