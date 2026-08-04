@@ -4,13 +4,13 @@ description: Реализации "протекают" в библиотеки.
 author: doctorraz
 date: 2026-08-04T11:00:00
 categories:
-  - C#
   - NET
+  - C#
   - VS
 tags:
   - NET
-  - csproj
   - VisualStudio
+  - csproj
 pin: true
 hidden: false
 media_subpath: /assets/img/posts/2026-08-04-VS-Utechka-using
