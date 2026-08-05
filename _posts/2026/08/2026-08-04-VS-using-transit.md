@@ -5,12 +5,11 @@ author: doctorraz
 date: 2026-08-04T11:00:00 +0300
 categories:
   - NET
-  - C#
-  - VS
-tags:
-  - NET
   - VisualStudio
+tags:
   - csproj
+  - visualstudio
+  - project
 pin: false
 hidden: false
 media_subpath: /assets/img/posts/2026-08-04-VS-using-transit

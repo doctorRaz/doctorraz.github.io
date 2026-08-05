@@ -1,13 +1,21 @@
 ---
 title: PlotSPDS CS (FAQ)
-description: Ответы на частые вопросы по работе с программой. 
+description: Ответы на частые вопросы по работе с программой.
 author: doctorraz
 date: 2025-08-12 11:00:00 +0300
-categories: [CAD, PlotSPDS]
-tags: [autocad, plotspds, faq, automatic]
+categories:
+  - CAD
+  - AutoCAD
+  - PlotSPDS
+tags:
+  - autocad
+  - plotspds
+  - faq
+  - automatic
+  - levelup
 pin: false
 hidden: false
-media_subpath: '/assets/img/posts/2025-08-13-PlotSPDS-Faq'
+media_subpath: /assets/img/posts/2025-08-13-PlotSPDS-Faq
 ---
 
 

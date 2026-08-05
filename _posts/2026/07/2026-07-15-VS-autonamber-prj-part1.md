@@ -5,12 +5,13 @@ author: doctorraz
 date: 2026-07-15 10:00:00 +0300
 categories:
   - NET
-  - C#
-  - VS
+  - VisualStudio
 tags:
   - NET
   - VisualStudio
   - csproj
+  - levelup
+  - faq
 pin: false
 hidden: false
 ---
