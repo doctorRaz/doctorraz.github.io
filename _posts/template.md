@@ -4,14 +4,16 @@ description: Examples of text, typography, math equations, diagrams, flowcharts,
 author: doctorraz
 date: 2026-08-04T10:00:00 +0300
 categories:
-  - nanoCAD
-  - hook
   - CAD
+  - nanoCAD
+  - AutoCAD
+  - hook
+  - VisualStudio
   - C#
   - NET
   - VS
-  - AutoCAD
   - Automatic
+  - API
   - others
 tags:
   - autocad
@@ -23,9 +25,7 @@ tags:
   - others
   - plotspds
   - settings
-  - VisualStudio
   - project
-  - API
 pin: false
 hidden: false
 media_subpath: /assets/img/posts/название-каталога-как-имя-поста
